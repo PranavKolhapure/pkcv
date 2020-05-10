@@ -1,0 +1,115 @@
+.body{
+text-align: center;
+margin: 0;
+font-family: arial , sans-serif;
+}
+
+.h1{
+font-family: 'Sacramento' ,cursive;
+font-size: 50px;
+margin-top: 50px;
+font-weight: normal;
+color: #6886c5;
+
+}
+h2{
+  color: #6886c5;
+
+}
+.p{
+font-size: 2.5rem;
+color: #6886c5;
+}
+.first-div{
+  background-color: #c3edea;
+position: relative;
+padding: 100px;
+  }
+
+  .middle-container{
+margin: 100px 0;
+
+  }
+  p{
+    line-height: 2;
+  }
+.m{
+  margin-left: 300px;
+   position: relative;
+   top: 100px;
+}
+hr{
+
+  border : dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 100px auto;
+
+}
+  .bottom-container{
+background-color: #c3edea;
+padding: 20px;
+
+  }
+
+.bottom-cloud{
+position: absolute;
+
+left:350px;
+bottom: 400px;
+}
+
+.top-cloud{
+position: absolute;
+right: 350px;
+top: 25px;
+}
+
+.code{
+width: 35%;
+float: left;
+margin: 30px;
+position: relative;
+bottom: 50px;
+left: 5px;
+
+}
+
+.home{
+float: right;
+width: 32%;
+margin-left: 30px;
+position: relative;
+bottom: 20px;
+
+}
+
+.skill-row1{
+width: 50%;
+margin:100px auto 100px auto;
+text-align: left;
+
+}
+
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+text-align: right;
+margin-top: 200px;
+
+
+
+}
+.skills{
+padding: 20px;
+}
+.contact-me{
+  padding: 100px;
+}
+
+h3{
+  color: #588da8;
+}
+.copy{
+  color: white;
+}
